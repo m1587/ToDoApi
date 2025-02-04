@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E71EDA4-FE1C-2822-A6C9-812607CDF2E0}|TodoApi.csproj|c:\\users\\\u05DE\u05D9\u05DB\u05DC\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E71EDA4-FE1C-2822-A6C9-812607CDF2E0}|TodoApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T18:44:59.274Z",
+              "EditorCaption": ""
             }
           ]
         }
