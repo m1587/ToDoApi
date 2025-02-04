@@ -132,3 +132,4 @@ C:\Users\מיכל\Documents\תכנות תשפה\פרקטיקוד\TodoApi\bin\Deb
 C:\Users\מיכל\Documents\תכנות תשפה\פרקטיקוד\TodoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\מיכל\Documents\תכנות תשפה\פרקטיקוד\TodoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\מיכל\Documents\תכנות תשפה\פרקטיקוד\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מיכל\Documents\תכנות תשפה\פרקטיקוד\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
