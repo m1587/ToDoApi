@@ -27,11 +27,13 @@ var app = builder.Build();
 // if (app.Environment.IsDevelopment())
 // {
     app.UseSwagger();
-    app.UseSwaggerUI(options =>
-    {
-        options.SwaggerEndpoint("/swagger/v1/swagger.json", "My API v1");
-        options.RoutePrefix = string.Empty; 
-    });
+    app.UseSwaggerUI(
+        // options =>
+    // {
+        // options.SwaggerEndpoint("/swagger/v1/swagger.json", "My API v1");
+        // options.RoutePrefix = string.Empty; 
+    // }
+    );
 // }
 app.UseCors("AllowAll");
 app.MapGet("/items", async (ToDoDbContext db) =>
