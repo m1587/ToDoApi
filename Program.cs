@@ -24,8 +24,8 @@ var connectionString = builder.Configuration.GetConnectionString("ToDoDB");
 builder.Services.AddDbContext<ToDoDbContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 var app = builder.Build();
-if (app.Environment.IsDevelopment())
-{
+// if (app.Environment.IsDevelopment())
+// {
     app.UseSwagger();
     app.UseSwaggerUI(
         options =>
@@ -34,7 +34,7 @@ if (app.Environment.IsDevelopment())
         options.RoutePrefix = string.Empty; 
     }
     );
-}
+// }
 app.UseCors("AllowAll");
 app.MapGet("/items", async (ToDoDbContext db) =>
 {
